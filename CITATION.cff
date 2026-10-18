@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Bu yazılımı kullanırsanız lütfen aşağıdaki biçimde atıf yapın."
+title: "Türkçe Morfolojik Etiketlemede Görülmemiş Özellik Demetlerine Genelleme: deney ve analiz kodu"
+authors:
+  - family-names: "Çavlan"
+    given-names: "Meryem"
+    affiliation: "Afyon Kocatepe Üniversitesi, Fen Bilimleri Enstitüsü"
+version: "1.0.0"
+date-released: "2026-10-19"
+license: MIT
+repository-code: "https://github.com/KULLANICI_ADINIZ/turkce-morfolojik-genelleme"
+keywords:
+  - morphological tagging
+  - compositional generalization
+  - Turkish
+  - Universal Dependencies

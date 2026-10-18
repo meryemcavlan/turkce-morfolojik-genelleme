@@ -1,0 +1,5 @@
+pandas>=2.2
+numpy>=2.1
+matplotlib>=3.10
+huggingface_hub>=1.0
+# model_surumleri.py için ayrıca: torch, transformers

@@ -1,0 +1,23 @@
+{
+  "BERTurk": {
+    "hf_id": "dbmdz/bert-base-turkish-cased",
+    "revision": "b6e1de16c983e0f2c70664591ea3f22810072608",
+    "parmak_izi": "40f6e9871672a6b62639317f929fbd8ad9db24a606b49083c1984fe159046c1a",
+    "tezdeki_onek": "40f6e9871672",
+    "deneydeki_agirliklarla_ayni": true
+  },
+  "mBERT": {
+    "hf_id": "bert-base-multilingual-cased",
+    "revision": "3f076fdb1ab68d5b2880cb87a0886f315b8146f8",
+    "parmak_izi": "802b783796781c5c6970e918e5a288fb95579e70051e4cf16fdfb94983e679ac",
+    "tezdeki_onek": "802b78379678",
+    "deneydeki_agirliklarla_ayni": true
+  },
+  "XLM-R": {
+    "hf_id": "xlm-roberta-base",
+    "revision": "e73636d4f797dec63c3081bb6ed5c7b0bb3f2089",
+    "parmak_izi": "ce2c4c4789d904f83350184deaafb746d4bf747c7409678df667210a9a27c13c",
+    "tezdeki_onek": "ce2c4c4789d9",
+    "deneydeki_agirliklarla_ayni": true
+  }
+}

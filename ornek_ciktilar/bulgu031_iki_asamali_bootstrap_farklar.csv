@@ -1,0 +1,16 @@
+﻿kosul,karsilastirma,fark_puan,ga_alt,ga_ust,ga_sifiri_dislar
+IMST 0,BERTurk − mBERT,8.48,-7.7,47.8,False
+IMST 0,BERTurk − XLM-R,-5.67,-15.3,16.7,False
+IMST 0,mBERT − XLM-R,-14.15,-35.8,-5.9,True
+IMST 1,BERTurk − mBERT,20.64,0.8,51.5,True
+IMST 1,BERTurk − XLM-R,6.0,-13.0,21.2,False
+IMST 1,mBERT − XLM-R,-14.64,-40.5,1.7,False
+IMST 2,BERTurk − mBERT,19.02,7.5,44.9,True
+IMST 2,BERTurk − XLM-R,27.37,6.2,41.6,True
+IMST 2,mBERT − XLM-R,8.35,-30.9,27.5,False
+IMST 4,BERTurk − mBERT,26.12,19.4,38.3,True
+IMST 4,BERTurk − XLM-R,17.7,5.6,26.2,True
+IMST 4,mBERT − XLM-R,-8.43,-26.1,1.0,False
+BOUN 0,BERTurk − mBERT,6.47,-0.4,20.4,False
+BOUN 0,BERTurk − XLM-R,7.68,1.7,15.2,True
+BOUN 0,mBERT − XLM-R,1.21,-11.2,8.0,False

@@ -1,0 +1,6 @@
+﻿kosul,BERTurk_Dat→Loc,BERTurk_Loc→Dat,mBERT_Dat→Loc,mBERT_Loc→Dat,XLM-R_Dat→Loc,XLM-R_Loc→Dat,BERTurk_Loc→Dat_seen,BERTurk_Loc→Dat_unseen,mBERT_Loc→Dat_seen,mBERT_Loc→Dat_unseen,XLM-R_Loc→Dat_seen,XLM-R_Loc→Dat_unseen
+BOUN 0,0–0,2–2,1–1,0–5,1–1,3–4,,,,,,
+IMST 0,0–0,0–0,2–4,1–1,2–5,0–0,,,,,,
+IMST 1,0–0,0–0,2–5,0–2,3–4,0–0,,,,,,
+IMST 2,0–0,0–0,10–14,1–1,3–5,0–0,,,,,,
+IMST 4,0–0,6–33,0–0,35–85,0–0,37–177,0–1,6–32,0–2,35–83,2–12,35–165

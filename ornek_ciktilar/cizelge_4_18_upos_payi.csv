@@ -1,0 +1,5 @@
+﻿kosul,yon,BERTurk_hata,BERTurk_upos_yanlis_yuzde,mBERT_hata,mBERT_upos_yanlis_yuzde,XLM-R_hata,XLM-R_upos_yanlis_yuzde
+IMST 0,Nom|Sing|3 → NONE,76–92,49.8,94–113,50.5,87–93,47.3
+IMST 0,NONE → Nom|Sing|3,58–68,63.2,105–124,73.8,64–67,74.0
+BOUN 0,Nom|Sing|3 → NONE,108–110,61.3,100–113,66.7,91–101,64.3
+BOUN 0,NONE → Nom|Sing|3,109–118,64.9,123–132,67.1,112–118,63.5
