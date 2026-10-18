@@ -8,7 +8,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-10-19"
 license: MIT
-repository-code: "https://github.com/KULLANICI_ADINIZ/turkce-morfolojik-genelleme"
+repository-code: "https://github.com/meryemcavlan/turkce-morfolojik-genelleme"
 keywords:
   - morphological tagging
   - compositional generalization
