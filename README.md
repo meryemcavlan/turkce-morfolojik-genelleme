@@ -4,7 +4,7 @@ Bu depo, Meryem Çavlan'ın yüksek lisans tezinin (Afyon Kocatepe Üniversitesi
 
 - **Sonuçlar ve belirteç düzeyi tahmin kayıtları:** https://huggingface.co/datasets/meryemmm22/final-thesis-results-v5
 - **İnce ayarlı modeller (ana bölünmeler, 18 depo):** https://huggingface.co/meryemmm22 altında `{berturk,mbert,xlmr}-{imst-r2.18,boun-r2.10}-ham-split0-seed{42,23,56}-v5`
-- **Kalıcı arşiv (DOI):** [Zenodo DOI'si buraya]
+- **Kalıcı arşiv (DOI):** [https://doi.org/10.5281/zenodo.23461408]
 
 ## Klasör yapısı
 
